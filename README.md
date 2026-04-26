@@ -1,7 +1,7 @@
 # Weather-App
 A simple desktop weather application built with Python and Tkinter. Select any Indian state from the dropdown menu, click Search, and instantly get live weather data powered by the OpenWeatherMap API.
 
-#Features
+# Features
 Dropdown list of all 28 Indian states
 <br>
 Live weather data fetched from OpenWeatherMap API

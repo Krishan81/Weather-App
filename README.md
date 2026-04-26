@@ -13,15 +13,13 @@ Simple and clean GUI built with Tkinter
 Temperature converted from Kelvin to Celsius automatically
 
 # Built With
-Tool                    Purpose
-<br>
-Python3                 Core programming language
-<br>
-Tkinter                 GUI (Graphical User Interface)
-<br>
-requests                Fetching weather data from API
-<br>
-OpenWeatherMap API      Live weather data source
+
+| Tool | Purpose |
+|---|---|
+| Python 3 | Core programming language |
+| Tkinter | GUI (Graphical User Interface) |
+| requests | Fetching weather data from API |
+| OpenWeatherMap API | Live weather data source |
 
 #  How to Use
 Open the app

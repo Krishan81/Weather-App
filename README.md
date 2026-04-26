@@ -2,15 +2,15 @@
 A simple desktop weather application built with Python and Tkinter. Select any Indian state from the dropdown menu, click Search, and instantly get live weather data powered by the OpenWeatherMap API.
 
 # Features
--Dropdown list of all 28 Indian states
+->Dropdown list of all 28 Indian states
 <br>
--Live weather data fetched from OpenWeatherMap API
+->Live weather data fetched from OpenWeatherMap API
 <br>
--Displays weather climate, description, temperature, and pressure
+->Displays weather climate, description, temperature, and pressure
 <br>
--Simple and clean GUI built with Tkinter
+->Simple and clean GUI built with Tkinter
 <br>
--Temperature converted from Kelvin to Celsius automatically
+->Temperature converted from Kelvin to Celsius automatically
 
 # Built With
 

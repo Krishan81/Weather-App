@@ -22,11 +22,11 @@ Temperature converted from Kelvin to Celsius automatically
 | OpenWeatherMap API | Live weather data source |
 
 #  How to Use
-Open the app
+1.Open the app
 <br>
-Click the dropdown and select an Indian state
+2.Click the dropdown and select an Indian state
 <br>
-Click the Search button
+3.Click the Search button
 <br>
-Weather details will appear below instantly
+4.Weather details will appear below instantly
 
